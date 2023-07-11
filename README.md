@@ -1,1 +1,1 @@
-  Utilizando a biblioteca turtle do python para a criaçãod de um desenho de coração
+  Utilizando a biblioteca turtle do python para a criação de um desenho em forma de coração
